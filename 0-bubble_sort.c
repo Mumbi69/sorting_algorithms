@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
-* _swap - swaps the list and arrays
+* swap - swaps the list and arrays
 * @m: first integer
 * @n: second integer
 * Return: Nothing
@@ -11,9 +11,9 @@
 
 void swap(int *m, int *n)
 {
-    int temp = *m;
-    *m = *n;
-    *n = temp;
+	int temp = *m;
+	*m = *n;
+	*n = temp;
 }
 
 /**
