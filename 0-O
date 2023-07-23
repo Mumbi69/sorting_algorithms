@@ -1,0 +1,5 @@
+# Best case
+*  O(n) in the best case
+
+# Worst case
+* O(n^2)
