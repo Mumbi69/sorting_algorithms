@@ -6,7 +6,6 @@
 * swap - swaps the list and arrays
 * @m: first integer
 * @n: second integer
-* Return: Nothing
 */
 
 void swap(int *m, int *n)
@@ -20,8 +19,6 @@ void swap(int *m, int *n)
 * bubble_sort - sorts an array of integers using Bubble sort algorithm
 * @array: the array we are sorting
 * @size: the size of the array
-*
-* Return: Nothing
 */
 
 void bubble_sort(int *array, size_t size)
